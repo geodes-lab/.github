@@ -10,6 +10,9 @@
   <a href="https://geodes.recherche.usherbrooke.ca/en/news/">
     <img src="https://img.shields.io/badge/News-Latest%20Updates-orange?style=for-the-badge" />
   </a>
+  <a href="mailto:myriam.lemelin@usherbrooke.ca">
+    <img src="https://img.shields.io/badge/Email-usherbrooke.ca-red?style=for-the-badge&logo=maildotru" />
+  </a>
 </p>
 
 ---
@@ -18,7 +21,7 @@
 
 Welcome to the **GEODES Laboratory** — **GEOmatics Dedicated to Exploration of Space**.
 
-The GEODES Laboratory is based at the **Université de Sherbrooke**, Québec, Canada, and is led by **Prof. Myryam Lemelin**, Canada Research Chair in Northern and Planetary Geological Remote Sensing.
+The GEODES Laboratory is based at the **Université de Sherbrooke**, Québec, Canada, and is led by [**Prof. Myriam Lemelin**](https://www.usherbrooke.ca/geomatique/departement/personnel/personnel-enseignant/myriam-lemelin), Canada Research Chair in Northern and Planetary Geological Remote Sensing.
 
 Our research focuses on the use of **remote sensing**, **geomatics**, and **planetary analog studies** to better understand the geology and surface properties of Earth, the Moon, Mars, and small planetary bodies.
 
