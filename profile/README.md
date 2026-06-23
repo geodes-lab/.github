@@ -67,7 +67,7 @@ The GEODES team contributes to research in:
 
 Explore our latest publications and scientific contributions on our website:
 
-🔗 [Scientific Contributions](https://geodes.recherche.usherbrooke.ca/en/scientific-contributions/)
+🔗 [Scientific Contributions](https://geodes.recherche.usherbrooke.ca/en/publications)
 
 ---
 
