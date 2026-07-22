@@ -116,4 +116,4 @@ Sherbrooke, Québec, Canada
 <p align="center">
   <i>GEOmatics Dedicated to Exploration of Space</i>
 </p>
-``
+
